@@ -16,7 +16,7 @@ The primary objective was to analyze market dominance across major platforms and
 * **`/notebooks`**: Jupyter Notebook containing the Python scripts for data cleaning and feature engineering.
 * **`/dashboard`**: The `.pbix` file featuring the interactive Power BI report.
 
-## 🧹 Data Sanitization & Feature Engineering
+## 🧹 Data Cleaning & Feature Engineering
 * **Column Optimization:** Removed redundant attributes (e.g., image URLs) to reduce file size and improve dashboard performance.
 * **Feature Engineering:** Created a custom "Company" grouping to aggregate platforms (Sony, Nintendo, Microsoft) for high-level market comparison.
 * **Handling Nulls:** Cleaned missing values in Year and Genre columns to ensure visualization accuracy.
